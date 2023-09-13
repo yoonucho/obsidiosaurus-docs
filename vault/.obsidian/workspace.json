@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "65eb4f5c87577cc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6365c5d9b4b402b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa1a4414a13df05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0454d20d3cc29322",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd40fcf4aa728ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fa709bd2b20262d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0a58b28cf74f907",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9e4f27da4818a58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58bd26d656f6b3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b93c121f7f3398c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9475a55032c9861e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8e15c2db7b1bb84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "362a553b12e67bdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eba3626f24cc13eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidiosaurus:Obsidiosaurus": false
+    }
+  },
+  "active": "6fa709bd2b20262d",
+  "lastOpenFiles": [
+    "blog/2023-06-01/Post1__en.md",
+    "blog/2023-06-01",
+    "blog/authors.yml.md",
+    "assets/vs-code_new_terminal.png",
+    "assets/three_circles_tet.excalidraw.md",
+    "assets/three_circles_tet.excalidraw.light.svg",
+    "assets/three_circles_tet.excalidraw.dark.svg",
+    "assets/obsidiosaurus_sidebar_icon.png",
+    "assets/obsidiosaurus_run_sucess_notifaction_2.png",
+    "assets/obsidiosaurus_run_sucess_notifaction.png",
+    "assets/obsidiosaurus_plugin_settings.png",
+    "assets/obsidian_create_attachment_folder.png",
+    "assets/obsidian_console.png",
+    "assets/obisidan_settings_files_and_links.png",
+    "assets/Drawing _0.excalidraw.md",
+    "assets/Drawing .excalidraw.md",
+    "docs/main/0. Introduction+/introduction__en.md",
+    "docs/main/0. Introduction+/introduction__de.md",
+    "blog/first test.md",
+    "docs/main/2. Features+/1. excalidraw.md",
+    "docs/main/2. Features+/0. features__en.md",
+    "docs/main/2. Features+",
+    "docs/main/1. Get started/_category_.yml.md",
+    "docs/main/1. Get started/3. Deployment/3. Vercel+/vercel__en.md",
+    "docs/main/1. Get started/3. Deployment/2. Netlify+/netfliy__en.md",
+    "docs/main/1. Get started/3. Deployment/1. Github Pages+/github_pages__en.md",
+    "docs/main/1. Get started/3. Deployment/3. Vercel+",
+    "docs/main/1. Get started/3. Deployment/2. Netlify+",
+    "docs/main/1. Get started/3. Deployment/1. Github Pages+",
+    "docs/main/1. Get started/3. Deployment",
+    "docs/main/1. Get started/2. Usage+/usage__en.md",
+    "docs/main/1. Get started/2. Usage+",
+    "docs/main/1. Get started/1. Installation/7. Create notes+/create_notes__en.md",
+    "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
+    "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
+    "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
+    "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
+    "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
+    "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
+    "docs/main/1. Get started/1. Installation/7. Create notes+",
+    "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+",
+    "docs/main/1. Get started/1. Installation/5. Website Structure+",
+    "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+    "docs/sidebar/2. Second topic/1. First note.md",
+    "docs/sidebar/1. First topic/1. Second note.md",
+    "docs/sidebar/1. First topic/1. First note.md"
+  ]
+}
