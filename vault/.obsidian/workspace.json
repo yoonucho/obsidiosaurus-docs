@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6365c5d9b4b402b",
+        "id": "208801e2aa287c46",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa1a4414a13df05",
+            "id": "1080427cf05b1e55",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "5aa1a4414a13df05",
+  "active": "6fa709bd2b20262d",
   "lastOpenFiles": [
     "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
     "release_notes__blog/2023-07-01_0.3+",
