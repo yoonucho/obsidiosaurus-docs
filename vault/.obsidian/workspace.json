@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/main/0. Introduction+/introduction__de.md",
+                "file": "blog/first test1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/main/0. Introduction+/introduction__de.md",
+                "file": "blog/first test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/main/0. Introduction+/introduction__de.md",
+                "file": "blog/first test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/main/0. Introduction+/introduction__de.md"
+                "file": "blog/first test1.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "1080427cf05b1e55",
   "lastOpenFiles": [
+    "blog/authors.yml.md",
+    "docs/main/0. Introduction+/introduction__de.md",
     "docs/sidebar/2. Second topic/1. First note.md",
     "docs/sidebar/1. First topic/1. Second note.md",
     "docs/sidebar/1. First topic/1. First note.md",
@@ -179,11 +181,9 @@
     "docs/main/2. Features+/0. features__en.md",
     "docs/main/1. Get started/_category_.yml.md",
     "docs/main/0. Introduction+/introduction__en.md",
-    "docs/main/0. Introduction+/introduction__de.md",
     "docs/intro.md",
     "blog/2023-06-01/Post1__en.md",
-    "blog/first test.md",
-    "blog/authors.yml.md",
+    "blog/first test1.md",
     "assets/vs-code_new_terminal.png",
     "assets/three_circles_tet.excalidraw.md",
     "assets/three_circles_tet.excalidraw.light.svg",
