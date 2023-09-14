@@ -11,8 +11,12 @@
             "id": "1080427cf05b1e55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/main/0. Introduction+/introduction__de.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/main/0. Introduction+/introduction__de.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/main/0. Introduction+/introduction__de.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/main/0. Introduction+/introduction__de.md"
+              }
             }
           }
         ]
@@ -139,8 +147,11 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "6fa709bd2b20262d",
+  "active": "1080427cf05b1e55",
   "lastOpenFiles": [
+    "docs/sidebar/2. Second topic/1. First note.md",
+    "docs/sidebar/1. First topic/1. Second note.md",
+    "docs/sidebar/1. First topic/1. First note.md",
     "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
     "release_notes__blog/2023-07-01_0.3+",
     "release_notes__blog",
@@ -164,9 +175,6 @@
     "docs/main/1. Get started/1. Installation/4. Vault Setup+",
     "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+",
     "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
-    "docs/sidebar/2. Second topic/1. First note.md",
-    "docs/sidebar/1. First topic/1. Second note.md",
-    "docs/sidebar/1. First topic/1. First note.md",
     "docs/main/2. Features+/1. excalidraw.md",
     "docs/main/2. Features+/0. features__en.md",
     "docs/main/1. Get started/_category_.yml.md",
