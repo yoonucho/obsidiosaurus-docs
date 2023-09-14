@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "76ff0f083a021b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+                "file": "docs/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+                "file": "docs/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md"
+                "file": "docs/intro.md"
               }
             }
           }
@@ -145,6 +158,7 @@
   },
   "active": "6fa709bd2b20262d",
   "lastOpenFiles": [
+    "docs/intro.md",
     "blog/2023-06-01/Post1__en.md",
     "blog/2023-06-01",
     "blog/authors.yml.md",
@@ -189,7 +203,6 @@
     "docs/main/1. Get started/1. Installation/5. Website Structure+",
     "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
     "docs/sidebar/2. Second topic/1. First note.md",
-    "docs/sidebar/1. First topic/1. Second note.md",
-    "docs/sidebar/1. First topic/1. First note.md"
+    "docs/sidebar/1. First topic/1. Second note.md"
   ]
 }
