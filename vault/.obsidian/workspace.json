@@ -156,8 +156,11 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "6fa709bd2b20262d",
+  "active": "76ff0f083a021b52",
   "lastOpenFiles": [
+    "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
+    "release_notes__blog/2023-07-01_0.3+",
+    "release_notes__blog",
     "docs/intro.md",
     "blog/2023-06-01/Post1__en.md",
     "blog/2023-06-01",
@@ -199,10 +202,7 @@
     "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
     "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
     "docs/main/1. Get started/1. Installation/7. Create notes+",
-    "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+",
-    "docs/main/1. Get started/1. Installation/5. Website Structure+",
     "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
-    "docs/sidebar/2. Second topic/1. First note.md",
-    "docs/sidebar/1. First topic/1. Second note.md"
+    "docs/sidebar/2. Second topic/1. First note.md"
   ]
 }
