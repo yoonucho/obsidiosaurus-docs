@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Exploring the Power of Tool X","permalink":"/obsidiosaurus-docs/blog/2023/06/01/Post1"}]}')}}]);
