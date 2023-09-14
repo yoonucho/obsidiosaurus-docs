@@ -1,0 +1,39 @@
+{
+  "permalink": "/obsidiosaurus-docs/blog/2023/06/01/Post1",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-06-01/Post1.md",
+  "source": "@site/blog/2023-06-01/Post1.md",
+  "title": "Exploring the Power of Tool X",
+  "description": "\"The best tool is the one that empowers you, not the one that impresses the crowd.\" - Anonymous",
+  "date": "2023-06-01T00:00:00.000Z",
+  "formattedDate": "June 1, 2023",
+  "tags": [
+    {
+      "label": "test",
+      "permalink": "/obsidiosaurus-docs/blog/tags/test"
+    },
+    {
+      "label": "obsidiosaurus",
+      "permalink": "/obsidiosaurus-docs/blog/tags/obsidiosaurus"
+    }
+  ],
+  "readingTime": 2.24,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Mat4m0",
+      "title": "O.o",
+      "url": "https://github.com/Mat4m0",
+      "email": "matthias@cimsta.com",
+      "imageURL": "https://github.com/Mat4m0.png",
+      "key": "mat4m0"
+    }
+  ],
+  "frontMatter": {
+    "title": "Exploring the Power of Tool X",
+    "authors": "mat4m0",
+    "tags": [
+      "test",
+      "obsidiosaurus"
+    ]
+  }
+}

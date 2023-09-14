@@ -1,0 +1,25 @@
+{
+  "unversionedId": "main/Get started/Installation/Docusaurus Configuration",
+  "id": "main/Get started/Installation/Docusaurus Configuration",
+  "title": "Docusaurus config setup",
+  "description": "After you have created the folder structure in Obsidian its time to adjust the Docusaurus settings to support this structure.",
+  "source": "@site/docs/main/1. Get started/1. Installation/6. Docusaurus Configuration.md",
+  "sourceDirName": "main/1. Get started/1. Installation",
+  "slug": "/main/Get started/Installation/Docusaurus Configuration",
+  "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Docusaurus Configuration",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/main/1. Get started/1. Installation/6. Docusaurus Configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Website Structure",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Website Structure"
+  },
+  "next": {
+    "title": "Create your first notes",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Create notes"
+  }
+}

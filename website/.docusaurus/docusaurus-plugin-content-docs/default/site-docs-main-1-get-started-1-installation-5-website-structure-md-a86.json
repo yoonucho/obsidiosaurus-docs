@@ -1,0 +1,25 @@
+{
+  "unversionedId": "main/Get started/Installation/Website Structure",
+  "id": "main/Get started/Installation/Website Structure",
+  "title": "Website Structure",
+  "description": "Now it's time to consider the structure of your website, which involves deciding on the Docusaurus modules you want to incorporate.",
+  "source": "@site/docs/main/1. Get started/1. Installation/5. Website Structure.md",
+  "sourceDirName": "main/1. Get started/1. Installation",
+  "slug": "/main/Get started/Installation/Website Structure",
+  "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Website Structure",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/main/1. Get started/1. Installation/5. Website Structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vault Setup",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Vault Setup"
+  },
+  "next": {
+    "title": "Docusaurus config setup",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Docusaurus Configuration"
+  }
+}

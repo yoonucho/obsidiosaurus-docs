@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[540],{5760:s=>{s.exports=JSON.parse('{"label":"test","permalink":"/obsidiosaurus-docs/blog/tags/test","allTagsPath":"/obsidiosaurus-docs/blog/tags","count":1}')}}]);

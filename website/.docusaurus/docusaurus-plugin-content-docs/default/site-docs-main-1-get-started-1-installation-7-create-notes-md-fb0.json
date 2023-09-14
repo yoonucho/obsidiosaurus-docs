@@ -1,0 +1,25 @@
+{
+  "unversionedId": "main/Get started/Installation/Create notes",
+  "id": "main/Get started/Installation/Create notes",
+  "title": "Create your first notes",
+  "description": "Multiple Languages",
+  "source": "@site/docs/main/1. Get started/1. Installation/7. Create notes.md",
+  "sourceDirName": "main/1. Get started/1. Installation",
+  "slug": "/main/Get started/Installation/Create notes",
+  "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Create notes",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/main/1. Get started/1. Installation/7. Create notes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docusaurus config setup",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Docusaurus Configuration"
+  },
+  "next": {
+    "title": "How to use Obsidiosaurus",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Usage"
+  }
+}

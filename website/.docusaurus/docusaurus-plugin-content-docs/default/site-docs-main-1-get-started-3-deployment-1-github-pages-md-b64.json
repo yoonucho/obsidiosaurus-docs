@@ -1,0 +1,25 @@
+{
+  "unversionedId": "main/Get started/Deployment/Github Pages",
+  "id": "main/Get started/Deployment/Github Pages",
+  "title": "Deploying to Github Pages",
+  "description": "For more information refer to the official Docs",
+  "source": "@site/docs/main/1. Get started/3. Deployment/1. Github Pages.md",
+  "sourceDirName": "main/1. Get started/3. Deployment",
+  "slug": "/main/Get started/Deployment/Github Pages",
+  "permalink": "/obsidiosaurus-docs/docs/main/Get started/Deployment/Github Pages",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/main/1. Get started/3. Deployment/1. Github Pages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use Obsidiosaurus",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Usage"
+  },
+  "next": {
+    "title": "Netlify",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Deployment/Netlify"
+  }
+}

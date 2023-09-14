@@ -1,0 +1,25 @@
+{
+  "unversionedId": "main/Introduction",
+  "id": "main/Introduction",
+  "title": "Introduction",
+  "description": "👋 Hello and welcome to Obsidiosaurus!",
+  "source": "@site/docs/main/0. Introduction.md",
+  "sourceDirName": "main",
+  "slug": "/main/Introduction",
+  "permalink": "/obsidiosaurus-docs/docs/main/Introduction",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/main/0. Introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/obsidiosaurus-docs/docs/intro"
+  },
+  "next": {
+    "title": "Quick Start ⏱️",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/quick_start"
+  }
+}

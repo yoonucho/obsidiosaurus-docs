@@ -1,0 +1,25 @@
+{
+  "unversionedId": "main/Get started/Installation/Docusaurus Installation",
+  "id": "main/Get started/Installation/Docusaurus Installation",
+  "title": "Docusaurus Installation",
+  "description": "Step 3: Install Docusaurus",
+  "source": "@site/docs/main/1. Get started/1. Installation/3. Docusaurus Installation.md",
+  "sourceDirName": "main/1. Get started/1. Installation",
+  "slug": "/main/Get started/Installation/Docusaurus Installation",
+  "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Docusaurus Installation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/main/1. Get started/1. Installation/3. Docusaurus Installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Repository",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Setup Git Repo"
+  },
+  "next": {
+    "title": "Vault Setup",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Vault Setup"
+  }
+}

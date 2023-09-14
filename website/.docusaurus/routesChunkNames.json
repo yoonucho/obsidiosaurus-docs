@@ -1,0 +1,147 @@
+{
+  "/obsidiosaurus-docs/blog-cbe": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "8e9cc58f"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c54926aa"
+      }
+    ],
+    "metadata": "c719c540"
+  },
+  "/obsidiosaurus-docs/blog/2023/06/01/Post1-e30": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "8e9cc58f"
+    },
+    "sidebar": "814f3328",
+    "content": "4cdf1d17"
+  },
+  "/obsidiosaurus-docs/blog/archive-32f": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "8e9cc58f"
+    },
+    "archive": "c5397ec7"
+  },
+  "/obsidiosaurus-docs/blog/tags-ef6": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "8e9cc58f"
+    },
+    "sidebar": "814f3328",
+    "tags": "f51e6a52"
+  },
+  "/obsidiosaurus-docs/blog/tags/obsidiosaurus-849": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "8e9cc58f"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c54926aa"
+      }
+    ],
+    "tag": "2119f07b",
+    "listMetadata": "8de91d63"
+  },
+  "/obsidiosaurus-docs/blog/tags/test-c11": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "8e9cc58f"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c54926aa"
+      }
+    ],
+    "tag": "2f946920",
+    "listMetadata": "98ef8b87"
+  },
+  "/obsidiosaurus-docs/markdown-page-e78": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "2a2cccfb"
+    },
+    "content": "393be207"
+  },
+  "/obsidiosaurus-docs/docs-88c": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "1becaa88"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/obsidiosaurus-docs/docs/intro-d7e": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/obsidiosaurus-docs/docs/main/Features-49f": {
+    "__comp": "17896441",
+    "content": "130f55d5"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Deployment/Github Pages-aff": {
+    "__comp": "17896441",
+    "content": "b64b7432"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Deployment/Netlify-015": {
+    "__comp": "17896441",
+    "content": "51f78b3d"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Deployment/Vercel-b66": {
+    "__comp": "17896441",
+    "content": "5bfd516d"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Installation/Create notes-491": {
+    "__comp": "17896441",
+    "content": "fb0c7199"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Installation/Docusaurus Configuration-3d6": {
+    "__comp": "17896441",
+    "content": "dd6d39b1"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Installation/Docusaurus Installation-4f8": {
+    "__comp": "17896441",
+    "content": "bbece0d6"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Installation/Required Tools-e53": {
+    "__comp": "17896441",
+    "content": "44c344b0"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Installation/Setup Git Repo-2a3": {
+    "__comp": "17896441",
+    "content": "d736c26f"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Installation/Vault Setup-fbf": {
+    "__comp": "17896441",
+    "content": "fe536f68"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Installation/Website Structure-756": {
+    "__comp": "17896441",
+    "content": "a864460b"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/quick_start-385": {
+    "__comp": "17896441",
+    "content": "931b8f5d"
+  },
+  "/obsidiosaurus-docs/docs/main/Get started/Usage-95c": {
+    "__comp": "17896441",
+    "content": "4fd7992f"
+  },
+  "/obsidiosaurus-docs/docs/main/Introduction-e70": {
+    "__comp": "17896441",
+    "content": "5388d366"
+  },
+  "/obsidiosaurus-docs/-68b": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "2a2cccfb"
+    },
+    "config": "5e9f5e1a"
+  }
+}

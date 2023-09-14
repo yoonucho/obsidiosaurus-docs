@@ -1,0 +1,25 @@
+{
+  "unversionedId": "main/Get started/Installation/Required Tools",
+  "id": "main/Get started/Installation/Required Tools",
+  "title": "Requirements",
+  "description": "Step 1: Install required Tools 🛠️",
+  "source": "@site/docs/main/1. Get started/1. Installation/1. Required Tools.md",
+  "sourceDirName": "main/1. Get started/1. Installation",
+  "slug": "/main/Get started/Installation/Required Tools",
+  "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Required Tools",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/main/1. Get started/1. Installation/1. Required Tools.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start ⏱️",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/quick_start"
+  },
+  "next": {
+    "title": "Setup Repository",
+    "permalink": "/obsidiosaurus-docs/docs/main/Get started/Installation/Setup Git Repo"
+  }
+}
