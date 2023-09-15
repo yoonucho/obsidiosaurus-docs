@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/authors.yml.md",
+                "file": "blog/first test1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/authors.yml.md",
+                "file": "blog/first test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/authors.yml.md",
+                "file": "blog/first test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/authors.yml.md"
+                "file": "blog/first test1.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   "active": "1080427cf05b1e55",
   "lastOpenFiles": [
     "blog/yoonu/2023-09-15-test.md",
+    "blog/authors.yml.md",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
     "docs/main/0. Introduction+/introduction__en.md",
     "blog/2023-06-01/Post1__en.md",
-    "blog/authors.yml.md",
     "blog/yoonu/2023-09-15-test-ex.md.md",
     "blog/yoonu",
     "docs/main/0. Introduction+/introduction__de.md",
