@@ -8,4 +8,5 @@ mat4m0:
 yoonu:
  name: Yoonu Cho
  title: 피곤한 조윤우입니다.
- image_url: https://avatars.githubusercontent.com/u/90430460
+ image_url: https://avatars.githubusercontent.com/u/2981954
+ 
