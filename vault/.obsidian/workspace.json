@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+                "file": "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "319ae88ac725d873",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +152,18 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "1080427cf05b1e55",
+  "active": "319ae88ac725d873",
   "lastOpenFiles": [
-    "docs/intro.md",
+    "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
+    "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
+    "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
+    "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+    "docs/main/0. Introduction+/introduction__en.md",
     "docs/main/0. Introduction+/introduction__de.md",
     "blog/first test1.md",
+    "blog/authors.yml.md",
+    "blog/2023-06-01/Post1__en.md",
+    "docs/intro.md",
     "docs/sidebar/2. Second topic/1. First note.md",
     "docs/sidebar/1. First topic/1. Second note.md",
     "docs/sidebar/1. First topic/1. First note.md",
@@ -164,10 +176,7 @@
     "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
     "docs/main/1. Get started/1. Installation/7. Create notes+/create_notes__en.md",
     "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
-    "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
-    "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
     "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
-    "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
     "docs/main/1. Get started/3. Deployment/3. Vercel+",
     "docs/main/1. Get started/3. Deployment/2. Netlify+",
     "docs/main/1. Get started/3. Deployment/1. Github Pages+",
@@ -177,14 +186,10 @@
     "docs/main/1. Get started/1. Installation/5. Website Structure+",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+",
     "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+",
-    "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
     "docs/main/2. Features+/1. excalidraw.md",
     "docs/main/2. Features+/0. features__en.md",
     "docs/main/1. Get started/_category_.yml.md",
-    "docs/main/0. Introduction+/introduction__en.md",
-    "blog/2023-06-01/Post1__en.md",
     "blog/first test.md",
-    "blog/authors.yml.md",
     "assets/vs-code_new_terminal.png",
     "assets/three_circles_tet.excalidraw.light.svg",
     "assets/three_circles_tet.excalidraw.dark.svg",
