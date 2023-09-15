@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a38fdc58045c3294",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/main/0. Introduction+/introduction__en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/main/0. Introduction+/introduction__en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/main/0. Introduction+/introduction__en.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,14 +164,14 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "6fa709bd2b20262d",
+  "active": "a38fdc58045c3294",
   "lastOpenFiles": [
+    "docs/main/0. Introduction+/introduction__en.md",
     "docs/main/0. Introduction+/introduction__de.md",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
     "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
     "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
     "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
-    "docs/main/0. Introduction+/introduction__en.md",
     "blog/first test1.md",
     "blog/authors.yml.md",
     "blog/2023-06-01/Post1__en.md",
