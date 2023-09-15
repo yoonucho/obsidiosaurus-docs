@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/intro.md"
+                "file": "docs/main/1. Get started/0. quick_start+/quick_start__en.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "1080427cf05b1e55",
   "lastOpenFiles": [
+    "docs/intro.md",
     "docs/main/0. Introduction+/introduction__de.md",
     "blog/first test1.md",
     "docs/sidebar/2. Second topic/1. First note.md",
@@ -181,7 +182,6 @@
     "docs/main/2. Features+/0. features__en.md",
     "docs/main/1. Get started/_category_.yml.md",
     "docs/main/0. Introduction+/introduction__en.md",
-    "docs/intro.md",
     "blog/2023-06-01/Post1__en.md",
     "blog/first test.md",
     "blog/authors.yml.md",
