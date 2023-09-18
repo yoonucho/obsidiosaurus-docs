@@ -2,18 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yoonucho.github.io/obsidiosaurus-docs/blog</id>
     <title>My Site Blog</title>
-    <updated>2023-09-15T00:00:00.000Z</updated>
+    <updated>2023-09-18T05:50:31.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yoonucho.github.io/obsidiosaurus-docs/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://yoonucho.github.io/obsidiosaurus-docs/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[yoonu/물소]]></title>
+        <id>https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/물소</id>
+        <link href="https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/물소"/>
+        <updated>2023-09-18T05:50:31.000Z</updated>
+        <summary type="html"><![CDATA[물소는 동물 뭔가 포유류 뭔가....]]></summary>
+        <content type="html"><![CDATA[<p>물소는 동물 뭔가 포유류 뭔가....</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yoonu/카이막]]></title>
+        <id>https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/카이막</id>
+        <link href="https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/카이막"/>
+        <updated>2023-09-18T05:50:31.000Z</updated>
+        <summary type="html"><![CDATA[카이막은 뭔가 [[물소]] 젖으로 만드는 크림인지 버터인지 뭔가임]]></summary>
+        <content type="html"><![CDATA[<p>카이막은 뭔가 [<!-- -->[물소]<!-- -->] 젖으로 만드는 크림인지 버터인지 뭔가임</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[발카이막!]]></title>
         <id>https://yoonucho.github.io/obsidiosaurus-docs/blog/2023/09/15/yoonu/test</id>
         <link href="https://yoonucho.github.io/obsidiosaurus-docs/blog/2023/09/15/yoonu/test"/>
         <updated>2023-09-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[* 카이막 꿀맛이었음! 11111]]></summary>
-        <content type="html"><![CDATA[<ul><li>카이막 꿀맛이었음! 11111</li></ul>]]></content>
+        <summary type="html"><![CDATA[* [[카이막]] 꿀맛이었음! 11111]]></summary>
+        <content type="html"><![CDATA[<ul><li>[<!-- -->[카이막]<!-- -->] 꿀맛이었음! 11111</li></ul>]]></content>
         <author>
             <name>Yoonu Cho</name>
         </author>
