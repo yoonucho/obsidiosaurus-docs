@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yoonucho.github.io/obsidiosaurus-docs/blog</id>
     <title>My Site Blog</title>
-    <updated>2023-09-18T08:19:50.000Z</updated>
+    <updated>2023-09-18T08:29:50.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yoonucho.github.io/obsidiosaurus-docs/blog"/>
     <subtitle>My Site Blog</subtitle>
@@ -11,17 +11,17 @@
         <title type="html"><![CDATA[yoonu/kaymak]]></title>
         <id>https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/kaymak</id>
         <link href="https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/kaymak"/>
-        <updated>2023-09-18T08:19:50.000Z</updated>
-        <summary type="html"><![CDATA[카이막은 뭔가 물소 젖으로 만드는 크림인지 버터인지 뭔가임]]></summary>
-        <content type="html"><![CDATA[<p>카이막은 뭔가 물소 젖으로 만드는 크림인지 버터인지 뭔가임</p>]]></content>
+        <updated>2023-09-18T08:29:50.000Z</updated>
+        <summary type="html"><![CDATA[카이막은 뭔가 물소젖으로 만드는 크림인지 버터인지 뭔가임]]></summary>
+        <content type="html"><![CDATA[<p>카이막은 뭔가 <a href="/obsidiosaurus-docs/blog/yoonu/ms">물소</a>젖으로 만드는 크림인지 버터인지 뭔가임</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[yoonu/ms]]></title>
         <id>https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/ms</id>
         <link href="https://yoonucho.github.io/obsidiosaurus-docs/blog/yoonu/ms"/>
-        <updated>2023-09-18T08:19:50.000Z</updated>
+        <updated>2023-09-18T08:29:50.000Z</updated>
         <summary type="html"><![CDATA[물소는 동물 뭔가 포유류 뭔가....]]></summary>
-        <content type="html"><![CDATA[<p><a href="/obsidiosaurus-docs/blog/yoonu/ms">물소</a>는 동물 뭔가 포유류 뭔가....</p>]]></content>
+        <content type="html"><![CDATA[<p>물소는 동물 뭔가 포유류 뭔가....</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[발카이막!]]></title>
