@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/yoonu/물소.md",
+                "file": "blog/yoonu/카이막.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/yoonu/물소.md",
+                "file": "blog/yoonu/카이막.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/yoonu/물소.md",
+                "file": "blog/yoonu/카이막.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/yoonu/물소.md"
+                "file": "blog/yoonu/카이막.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "737031df008715bf",
   "lastOpenFiles": [
+    "blog/yoonu/2023-09-15-test.md",
     "blog/yoonu/카이막.md",
     "blog/yoonu/물소.md",
-    "blog/yoonu/2023-09-15-test.md",
     "yoonu/카이막.md",
     "yoonu",
     "카이막.md",
