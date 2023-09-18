@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "208801e2aa287c46",
+        "id": "411c11b44fa56973",
         "type": "tabs",
         "children": [
           {
-            "id": "1080427cf05b1e55",
+            "id": "737031df008715bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/yoonu/물소.md",
+                "file": "blog/yoonu/2023-09-15-test.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/yoonu/물소.md",
+                "file": "blog/yoonu/2023-09-15-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/yoonu/물소.md",
+                "file": "blog/yoonu/2023-09-15-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/yoonu/물소.md"
+                "file": "blog/yoonu/2023-09-15-test.md"
               }
             }
           }
@@ -148,11 +147,13 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "1080427cf05b1e55",
+  "active": "737031df008715bf",
   "lastOpenFiles": [
-    "blog/yoonu/카이막.md",
     "blog/yoonu/물소.md",
+    "blog/yoonu/카이막.md",
     "blog/yoonu/2023-09-15-test.md",
+    "yoonu/카이막.md",
+    "yoonu",
     "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
     "release_notes__blog/2023-07-01_0.3+",
     "release_notes__blog",
@@ -174,7 +175,6 @@
     "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+",
     "docs/main/1. Get started/1. Installation/5. Website Structure+",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+",
-    "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+",
     "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
     "docs/sidebar/2. Second topic/1. First note.md",
     "docs/sidebar/1. First topic/1. Second note.md",
@@ -185,7 +185,6 @@
     "docs/main/1. Get started/_category_.yml.md",
     "docs/main/0. Introduction+/introduction__en.md",
     "docs/main/0. Introduction+/introduction__de.md",
-    "docs/intro.md",
     "assets/Drawing _0.excalidraw.dark.svg",
     "assets/vs-code_new_terminal.png",
     "assets/three_circles_tet.excalidraw.light.svg",
