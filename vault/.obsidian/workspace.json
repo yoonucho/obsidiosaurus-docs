@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/yoonu/ms.md",
+                "file": "blog/yoonu/2023-09-15-test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/yoonu/ms.md",
+                "file": "blog/yoonu/2023-09-15-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/yoonu/ms.md",
+                "file": "blog/yoonu/2023-09-15-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/yoonu/ms.md"
+                "file": "blog/yoonu/2023-09-15-test.md"
               }
             }
           }
@@ -151,12 +151,13 @@
   "lastOpenFiles": [
     "blog/yoonu/kaymak.md",
     "blog/yoonu/2023-09-15-test.md",
+    "yoonu/kaymak.md",
+    "yoonu",
     "blog/yoonu/ms.md",
     "blog/yoonu/카이막.md",
     "blog/yoonu/\bms.md",
     "blog/yoonu/물소.md",
     "yoonu/카이막.md",
-    "yoonu",
     "카이막.md",
     "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
     "release_notes__blog/2023-07-01_0.3+",
@@ -184,7 +185,6 @@
     "docs/sidebar/1. First topic/1. Second note.md",
     "docs/sidebar/1. First topic/1. First note.md",
     "docs/sidebar/1. First topic/1. First note 11.md",
-    "docs/main/2. Features+/1. excalidraw.md",
     "assets/Drawing _0.excalidraw.dark.svg",
     "assets/vs-code_new_terminal.png",
     "assets/three_circles_tet.excalidraw.light.svg",
