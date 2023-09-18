@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/yoonu/ms.md",
+                "file": "blog/yoonu/kaymak.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/yoonu/ms.md",
+                "file": "blog/yoonu/kaymak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/yoonu/ms.md",
+                "file": "blog/yoonu/kaymak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/yoonu/ms.md"
+                "file": "blog/yoonu/kaymak.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "737031df008715bf",
   "lastOpenFiles": [
-    "blog/yoonu/2023-09-15-test.md",
+    "blog/yoonu/ms.md",
     "blog/yoonu/kaymak.md",
+    "blog/yoonu/2023-09-15-test.md",
     "yoonu/kaymak.md",
     "yoonu",
-    "blog/yoonu/ms.md",
     "blog/yoonu/카이막.md",
     "blog/yoonu/\bms.md",
     "blog/yoonu/물소.md",
