@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80f0887844cf7471",
+        "id": "7e94b99d61b15853",
         "type": "tabs",
         "children": [
           {
-            "id": "d46e0e6f27c9ed1a",
+            "id": "9d74a1ae269fdc5a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "website/blog/2023-06-01/Post1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "website/blog/2023-06-01/Post1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "website/blog/2023-06-01/Post1.md"
+              }
             }
           }
         ]
@@ -135,9 +139,22 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "d46e0e6f27c9ed1a",
-  "lastOpenFiles": []
+  "active": "ce05c4fbe975b0ff",
+  "lastOpenFiles": [
+    "vault/blog/2023-06-01/Post1__en.md",
+    "website/blog/yoonu/ms.md",
+    "website/blog/yoonu/kaymak.md",
+    "vault/blog/yoonu/ms.md",
+    "vault/blog/yoonu/kaymak.md",
+    "website/blog/yoonu/2023-09-15-test.md",
+    "vault/blog/yoonu/2023-09-15-test.md",
+    "conflict-files-obsidian-git.md",
+    "vault/blog/first test1.md",
+    "vault/blog/yoonu/2023-09-16-test 2.md",
+    "vault/blog/yoonu/2023-09-16-test 1.md"
+  ]
 }
